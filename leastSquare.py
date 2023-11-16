@@ -46,7 +46,7 @@ if __name__ == "__main__":
     training_data = choose_training_data(data)
     test_data = choose_test_data(data, training_data)
 
-    # Plot estimated line/polynomial
+    # Plot estimated linear/polynomial
     degree = 1  # for linear, change to 2 for quadratic, etc.
     coefficients = estimate_equation(training_data, degree)
 
