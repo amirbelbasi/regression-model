@@ -59,5 +59,5 @@ if __name__ == "__main__":
     plt.legend()
     plt.show()
 
-    # Log test data info
+    # Log test data info.
     log_test_data(test_data, coefficients, f"Degree-{degree}")
