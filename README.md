@@ -1,6 +1,6 @@
 # regression-model
 
-* Training Regression Model | Applied Linear Algebra
+* Training Regression Model for Global COVID Cases Prediction | Applied Linear Algebra
   * Trained linear and polynomial regression model using least squares algorithm to predict the number of global COVID cases
   * Utilized Python, Matplotlib for plotting, NumPy for calculations, Pandas for reading the csv dataset, and the given covid_cases.csv dataset for training & evaluation
 
